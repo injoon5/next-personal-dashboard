@@ -10,10 +10,7 @@ export default function Home() {
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <h1 className="text-6xl font-bold">
-          Welcome to one of {' '}
-          <a className="text-blue-600" href="https://oij.vercel.app">
-            injoon5's Website!
-          </a>
+          injoon5's Dashboard
         </h1>
 
         <p className="mt-3 text-2xl">
